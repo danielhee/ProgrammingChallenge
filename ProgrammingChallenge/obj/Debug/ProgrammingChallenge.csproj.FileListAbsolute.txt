@@ -1,0 +1,13 @@
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\ProgrammingChallenge.exe.config
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\ProgrammingChallenge.exe
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\ProgrammingChallenge.pdb
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.Form1.resources
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.Properties.Resources.resources
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.exe
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.pdb
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.csproj.CopyComplete
+C:\Users\Daniel\source\repos\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\ProgrammingChallenge.csprojResolveAssemblyReference.cache
